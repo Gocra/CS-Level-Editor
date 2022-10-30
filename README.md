@@ -10,7 +10,7 @@ This level editor is part of my A Level, CS project. I created it to easily buil
 ## Demonstration
 
 <div>
-    <img alt="Level Editor" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/Gocra/cs-Level-Editor/main/demo/image1.PNG" />
+    <img alt="Level Editor" width="100%" style="padding-right:10px;" src="/demo/image1.PNG" />
 </div>
 
 ## Getting Started
